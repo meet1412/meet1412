@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Meet Patel</h1>
-<h3 align="center">Driven Computer Programmer Student with a Passion for Innovation</h3>
+<h3 align="center">Driven Software Developer with a Passion for Innovation</h3>
 
 - 📫 How to reach me **patel.meet.5485@gmail.com**
 
