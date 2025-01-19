@@ -10,7 +10,7 @@
 ---
 
 - 📧 **Reach me at:** [patel.meet.5485@gmail.com](mailto:patel.meet.5485@gmail.com)
-- 🌐 **Portfolio:** [Coming Soon]
+- 🌐 **Portfolio:** [Check Out](https://meet1412.github.io/Portfolio/)
 - 🔗 **LinkedIn:** [linkedin.com/in/meet-patel1](https://www.linkedin.com/in/meet-patel1)
 
 ---
